@@ -1,0 +1,10 @@
+1. tkinter
+2. tkinter.ttk
+3. time
+4. webbrowser
+5. Pillow* (PIL)
+      •Image
+      •ImageTk
+      •ImageFont
+6. internet access
+7. image locations
