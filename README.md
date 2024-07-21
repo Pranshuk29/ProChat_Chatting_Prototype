@@ -13,8 +13,11 @@ A secure and user-friendly offline chat application prototype using Python's Tki
 4. webbrowser
 <br>
 5. Pillow* (PIL)
-      •Image
+<br>
+ &nbsp     •Image
+      <br>
       •ImageTk
+      <br>
       •ImageFont
 <br>      
 <br>
