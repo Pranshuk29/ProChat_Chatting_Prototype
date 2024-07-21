@@ -14,11 +14,11 @@ A secure and user-friendly offline chat application prototype using Python's Tki
 <br>
 5. Pillow* (PIL)
 <br>
- &nbsp     •Image
+ &nbsp  &nbsp  &nbsp  &nbsp    •Image
       <br>
-      •ImageTk
+ &nbsp  &nbsp  &nbsp  &nbsp    •ImageTk
       <br>
-      •ImageFont
+ &nbsp  &nbsp  &nbsp  &nbsp •ImageFont
 <br>      
 <br>
 *Names of images and text files have not been changed as they were given different names in source code.
